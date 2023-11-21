@@ -1,4 +1,4 @@
-name: 云端提取指定分区
+name: 云端合成HyperOS DSU包
 
 on:
   workflow_dispatch:
